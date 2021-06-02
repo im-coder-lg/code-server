@@ -1,8 +1,7 @@
 # Start from the code-server Debian base image
 FROM codercom/code-server:3.10.2
 
-# USER coder
-USER lg
+USER coder
 
 # Apply VS Code settings
 COPY deploy-container/settings.json .local/share/code-server/User/settings.json
