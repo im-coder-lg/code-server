@@ -1,3 +1,11 @@
+# Note:
+
+This is just for a Railway deployment of code-server, nothing else. Thanks to the people at @cdr(Coder) for making code-server ***AND*** a go-and-deploy version of it.
+
+All those checks will fail because it is not for GitHub.
+
+
+
 # deploy-code-server 🚀
 
 A collection of one-click buttons and scripts for deploying [code-server](https://github.com/cdr/code-server) to various cloud hosting platforms. The fastest way to get a code-server environment! ☁️
